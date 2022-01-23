@@ -1,0 +1,20 @@
+{
+  "name": "fw5-javascript3",
+  "version": "1.0.0",
+  "description": "My first javascript program",
+  "main": "index.js",
+  "scripts": {
+    "tugas4": "node tugas4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tugas",
+    "javascript3"
+  ],
+  "author": "Ahmad Zaky Ammar Dany",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.1.4",
+    "fetch": "^1.1.0"
+  }
+}
